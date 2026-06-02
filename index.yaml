@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  shivaapp:
+  - apiVersion: v2
+    appVersion: bus
+    created: "2026-06-02T17:04:42.487841486Z"
+    description: A Helm chart for Kubernetes
+    digest: cc145d0814473efa13813d9963cab0504d6bcd7475ea02d21484059012388dcf
+    name: shivaapp
+    type: application
+    urls:
+    - shivaapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-02T17:04:42.487153381Z"
